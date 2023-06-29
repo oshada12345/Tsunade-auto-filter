@@ -24,7 +24,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⚡️Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', callback_data="owner_info"),
+                    InlineKeyboardButton('⚔️ßð† Öwñêr⚔️', callback_data="owner_info"),
                     InlineKeyboardButton('⚠️Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ⚠️', switch_inline_query_current_chat='')
                 ],[
                     InlineKeyboardButton('⚙️Hᴇʟᴘ⚙️', callback_data='help'),
@@ -158,7 +158,7 @@ async def start(client, message):
                           
                           InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/vimukthioshada")
                          ]
                         ]
                     )
@@ -177,7 +177,7 @@ async def start(client, message):
                          
                           InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+                          InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/vimukthioshada")
                          ]
                         ]
                     )
@@ -304,7 +304,7 @@ async def start(client, message):
               
               InlineKeyboardButton('📣Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/Komassistantbot")
+              InlineKeyboardButton("➕️ʜᴇʟᴩ➕️", url="t.me/vimukthioshada")
              ]
             ]
         )
